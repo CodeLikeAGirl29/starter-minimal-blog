@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://minimal-blog.lekoarts.de">
+  <a href="https://starterminimalblog56711.gatsbyjs.io/">
     <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter: Minimal Blog
+  Gatsby: Minimal Blog
 </h1>
 
 <p align="center">
@@ -18,13 +18,13 @@
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
+    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@dev_lindseyk" alt="Follow @dev_lindseyk" />
   </a>
 </p>
 
 Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting. Using the Gatsby Theme [`@lekoarts/gatsby-theme-minimal-blog`](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-minimal-blog).
 
-[**Demo Website**](https://minimal-blog.lekoarts.de)
+[**Demo Website**](https://starterminimalblog56711.gatsbyjs.io/)
 
 Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter).
 
@@ -42,14 +42,14 @@ Also be sure to check out other [Free & Open Source Gatsby Themes](https://theme
 
 ## 🚀 Getting Started
 
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/LekoArts/gatsby-starter-minimal-blog)
+[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/codelikeagirl29/starter-minimal-blog)
 
 ### 1. **Create a Gatsby site.**
 
 Use `git` to clone the site and navigate into it:
 
 ```sh
-git clone https://github.com/LekoArts/gatsby-starter-minimal-blog project-name
+git clone https://github.com/CodeLikeAGirl29/starter-minimal-blog project-name
 cd project-name
 ```
 
